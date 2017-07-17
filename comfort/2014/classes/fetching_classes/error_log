@@ -1,0 +1,6 @@
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 2
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 3
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 7
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 7
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 8
+[18-Mar-2017 09:41:08 Etc/GMT] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/wwwsmtmarbles/public_html/www.comforttours.in/2014/classes/fetching_classes/waste.php on line 16
